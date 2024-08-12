@@ -31,11 +31,8 @@ Bu proje, modern ve kullanıcı dostu bir spor merkezi web sitesidir. Web sitesi
 
 ## Kurulum
 
-Bu projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izleyin:
 
-### 1. Projeyi Klonlama
-```bash
-git clone https://github.com/kullaniciadi/proje-adi.git
+
 
 Geliştirme
 Proje geliştirilirken şu teknolojiler ve araçlar kullanıldı:
