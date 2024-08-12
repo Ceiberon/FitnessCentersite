@@ -1,3 +1,5 @@
+https://fitness-centersite.vercel.app
+
 # Spor Merkezi Web Sitesi
 
 Bu proje, modern ve kullanıcı dostu bir spor merkezi web sitesidir. Web sitesi, çeşitli spor dallarını tanıtmak, en iyi eğitmenleri öne çıkarmak, BMI hesaplayıcı ile kullanıcıların vücut kitle indeksini hesaplamalarına olanak tanımak ve iletişim için etkileşimli bir harita sunmak amacıyla tasarlanmıştır.
